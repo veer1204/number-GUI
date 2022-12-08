@@ -180,6 +180,7 @@ public class NumberAddition extends javax.swing.JFrame {
         // TODO add your handling code here:
         jTextField1.setText("");
         jTextField2.setText("");
+        jLabel4.setText("");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
